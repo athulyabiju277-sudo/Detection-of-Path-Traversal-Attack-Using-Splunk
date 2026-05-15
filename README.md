@@ -126,14 +126,24 @@ The alert mechanism enabled automated detection of suspicious requests, demonstr
 #  Screenshots
 
 
-* Log Ingestion
-  !(./screenshots/log_ingestion.png.png)
-* Detection query
-  !(./screenshots/splunk_query.png.png)
-* Attack simulation
-  !(./screenshots/attack_simulation.png.png)
-* Triggered alerts
-  !(./screenshots/alert_triggered.png)
+# 📸 Screenshots
+
+## Log Ingestion
+
+![Log Ingestion](./screenshots/log_ingestion.png.png)
+
+## Detection Query
+
+![Detection Query](./screenshots/splunk_query.png.png)
+
+## Attack Simulation
+
+![Attack Simulation](./screenshots/attack_simulation.png.png)
+
+## Triggered Alerts
+
+![Triggered Alerts](./screenshots/alert_triggered.png)
+
   
 
 ---
